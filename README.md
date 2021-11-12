@@ -4,4 +4,4 @@ The link to the script is
 https://github.com/umichpengfeil/Stats507/blob/main/PS2%20Q3.ipynb
 
 And for special illustration:see https://github.com/umichpengfeil/Stats507/blob/main/GSIcomments.md for GSI comments of Q3.
-See 
+See  
